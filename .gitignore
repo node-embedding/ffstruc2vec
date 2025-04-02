@@ -1,0 +1,32 @@
+# Bytecode / Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+!ffstruc2vec.log  # diese Logdatei explizit mit einchecken
+
+# Pickle-Dateien
+*.pickle
+*.pkl
+
+# IDEs / Editoren
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Umgebungen (optional)
+.env/
+.venv/
+env/
+venv/
